@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "statement": "You can do it",
+      "level": 2,
+      "gifURL" : "https://c.tenor.com/B8oclFOKOtgAAAAC/loof-and-timmy-loof.gif"
+    },
+    {
+      "id": 2,
+      "statement": "Go Power Through",
+      "level": 4,
+      "gifURL" : "https://c.tenor.com/LVF2apF0TsEAAAAM/power-through-motivational.gif"
+    },
+    {
+      "id": 3,
+      "statement": "Keep Going",
+      "level": 5,
+      "gifURL" : "https://c.tenor.com/HT3h7s1p4Y8AAAAC/keep-going-gill.gif"
+    }
+  ]
+  
